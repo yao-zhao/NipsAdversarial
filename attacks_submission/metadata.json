@@ -1,0 +1,6 @@
+{
+  "type": "attack",
+  "container": "goodfellow/competition:cpu",
+  "container_gpu": "yaozhao/fatfingers:latest",
+  "entry_point": "run_attack.sh"
+}
